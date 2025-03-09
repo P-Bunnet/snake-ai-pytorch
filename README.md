@@ -1,10 +1,3 @@
-### **📥 Download the Updated README File**  
-🔗 **[Download README.md](sandbox:/mnt/data/README.md)**  
-
----
-
-### **Or Copy-Paste the Code Below**
-```md
 # **🐍 Snake AI with Reinforcement Learning (PyTorch)**
 🚀 **An AI-powered Snake game built using PyTorch and Deep Reinforcement Learning (DQN).**  
 Inspired by the **freeCodeCamp** tutorial on **Deep Q-Learning**, originally from [Patrick Loeber's GitHub](https://github.com/patrickloeber).  
